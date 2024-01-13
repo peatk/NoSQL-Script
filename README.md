@@ -1,2 +1,2 @@
-# NoSQL-Script
+# NoSQL Script
 MongoDB
